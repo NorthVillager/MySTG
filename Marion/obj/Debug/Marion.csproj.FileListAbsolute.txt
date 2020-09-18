@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\Marion\Marion\bin\Debug\Marion.exe.config
+C:\Users\USER\source\repos\Marion\Marion\bin\Debug\Marion.exe
+C:\Users\USER\source\repos\Marion\Marion\bin\Debug\Marion.pdb
+C:\Users\USER\source\repos\Marion\Marion\obj\Debug\Marion.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Marion\Marion\obj\Debug\Marion.Properties.Resources.resources
+C:\Users\USER\source\repos\Marion\Marion\obj\Debug\Marion.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Marion\Marion\obj\Debug\Marion.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Marion\Marion\obj\Debug\Marion.exe
+C:\Users\USER\source\repos\Marion\Marion\obj\Debug\Marion.pdb
+C:\Users\USER\source\repos\Marion\Marion\obj\Debug\Marion.GameWindow.resources
