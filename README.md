@@ -1,2 +1,2 @@
 # MySTG
-STG create now
+STG create COMPLETE
